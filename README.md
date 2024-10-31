@@ -1,5 +1,5 @@
 
-# Welcome to use PicX
+# Welcome to use wushangyin
 
 [PicX](https://github.com/XPoet/picx) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
 
